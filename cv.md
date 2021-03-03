@@ -13,6 +13,5 @@ https://notsoname.github.io/currencyAPP/
 https://notsoname.github.io/weatherApp/
 https://notsoname.github.io/calculatorAPP/
 https://notsoname.github.io/movieAPP/
-## Education
 ## English level
 Intermediate
