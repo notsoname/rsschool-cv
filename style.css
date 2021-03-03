@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 1px solid lightgray;
+}
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+.container {
+    width: 1170px;
+    margin: 0  auto;
+}
+.subheader {
+    color: lightgray;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.contacts__photo img{   
+    height: 350px;
+    object-fit: contain;
+    margin-right: 30px;
+}
+
+.contacts__experience {
+    margin-top: 15px;
+    border-bottom: 1px solid lightgray;
+}
