@@ -4,9 +4,10 @@ tel: 87085361083
 email: asar.akhmetbekov@gmail.com
 ## About me
 I am Frontend developer from Kazakhstan. 
-##Skills
+## Skills
 JS,CSS,HTML,React
-##Portfolio
+
+## Portfolio
 https://notsoname.github.io/todo/
 https://notsoname.github.io/currencyAPP/
 https://notsoname.github.io/weatherApp/
